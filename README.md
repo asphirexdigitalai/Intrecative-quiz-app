@@ -120,3 +120,9 @@ Conclusion
 
 This interactive quiz app is an excellent beginner project for learning HTML, CSS, and JavaScript. It provides an engaging way to test knowledge while demonstrating essential front-end development concepts. Try it out and enhance it further!
 
+
+
+OUTPUT :- 
+![Image](https://github.com/user-attachments/assets/fb625191-0539-4b70-ab17-a1e76765eb90)
+
+![Image](https://github.com/user-attachments/assets/235bf5ed-584d-47c4-a907-896a86371eb6)
